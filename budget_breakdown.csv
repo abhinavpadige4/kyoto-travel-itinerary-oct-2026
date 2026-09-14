@@ -1,0 +1,18 @@
+Category,Item,Cost per Person (¥),Cost for 2 People (¥),Cost for 2 People (USD),Notes
+Accommodation,Business Hotel (4 nights),16000,32000,210.00,¥8000/night double room
+Food & Drink,Breakfast (5 days),4000,8000,53.33,¥800/day from convenience stores
+Food & Drink,Lunch (5 days),6000,12000,80.00,¥1200/meal local specialties
+Food & Drink,Dinner (4 nights),10000,20000,133.33,¥2500/meal mix of casual and sit-down
+Food & Drink,Snacks/Treats (5 days),5000,10000,66.67,Matcha, street food, tea
+Transportation,Airport Transfers (round trip),5700,11400,76.00,Haruka Express KIX-Kyoto
+Transportation,Local Transport (5 days),4000,8000,53.33,Buses, subways, IC card
+Transportation,Nara Day Trip,1440,2880,19.20,JR Nara Line round trip (without pass)
+Activities,Temple Entrances,2000,4000,26.67,Kiyomizu-dera, Tenryu-ji, etc.
+Activities,Tea House Experience,2250,4500,30.00,Matcha ceremony with sweets
+Activities,Nara Attractions,1100,2200,14.67,Todai-ji, Kasuga Taisha, etc.
+Activities,Monkey Park,600,1200,8.00,Iwatayama Arashiyama
+Activities,Golden Pavilion,400,800,5.33,Kinkaku-ji admission
+Miscellaneous,Souvenirs,2500,5000,33.33,Matcha snacks, crafts, sake
+Miscellaneous,Emergency Buffer,5000,10000,66.67,Unexpected expenses
+Miscellaneous,Wi-Fi/SIM Card,1500,3000,20.00,Portable router or SIM
+TOTAL,,65950,131900,873.33,Well under $1200 budget
